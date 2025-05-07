@@ -5,5 +5,5 @@ pwd
 
 echo
 echo "Contents of the Current Directory:"
-ls
+ls -l
 
